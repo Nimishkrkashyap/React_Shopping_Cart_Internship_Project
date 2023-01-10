@@ -1,0 +1,22 @@
+.productContainer{
+    width: 30rem;
+    background-color: #cfcfcf;
+    margin: 2rem;
+    border-radius: 1rem;
+    padding: 2rem;
+}
+.productImage{
+    height: 17rem;
+    width: 23rem;
+    margin: 0 auto;
+    display: block;
+}
+.cardHeading{
+    display: flex;
+    justify-content: space-between;
+}
+.cardBottom{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
